@@ -1,10 +1,10 @@
-package Seminar2.cw3;
+package Seminar2.cw2_1;
 
 //Задание 2
 //Написать метод, который сжимает строку.
 //Пример: вход aaaabbbcdd. выход: abcd.
 
-public class Ex3 {
+public class Ex2_1 {
     public static void main(String[] args) {
         String str = "aaaabbbcddfff";
         StringBuilder res = getResString(str);
